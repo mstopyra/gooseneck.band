@@ -1,1 +1,15 @@
 remote_theme: b2a3e8/jekyll-theme-console
+
+header_pages:
+  - index.md
+  - about.md
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: 
+- '<a href="https://www.instagram.com/goosenecktheband/">Instagram</a>'
+- '<a href="https://www.youtube.com/channel/UCMh2r-H1t5Rhh-V9rfRoPrA/featured">Youtube</a>'
+
+
+google_analytics: WNC-20114974
