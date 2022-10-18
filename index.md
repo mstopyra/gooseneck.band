@@ -1,7 +1,6 @@
 ---
-title: Home
+title: /home
 layout: home
-permalink: /home
 ---
 # GOOSENECK THE BAND
 
