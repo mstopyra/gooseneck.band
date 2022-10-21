@@ -12,6 +12,7 @@ listen_for_clients_preferred_style: true # false (default) or true
 
 footer: 
 - '<a href="https://www.instagram.com/goosenecktheband/">Instagram  </a>'
+
 - '<a href="https://www.youtube.com/channel/UCMh2r-H1t5Rhh-V9rfRoPrA/featured">Youtube  </a>'
 
 

@@ -1,12 +1,18 @@
 ---
 title: /contact
-layout: default
+layout: page
 permalink: /contact
 ---
 
 # Want to get in touch? 
 
-[Send us an email!](mailto:info@gooseneck.band)
+[*Send us an email!*](mailto:info@gooseneck.band)
 
-Follow us on
-[![Instagram Logo](ins.svg)](https://www.instagram.com/goosenecktheband/)[![TikTok Logo](tiktok.svg)]()
+*Check out our:*
+
+-[*Instagram*](https://www.instagram.com/goosenecktheband/)-------------------------------------------------
+
+--------------------------------------[*TikTok*](https://www.tiktok.com/@gooseneckmusic)----------------
+
+-----------------[*Youtube*](https://www.youtube.com/channel/UCMh2r-H1t5Rhh-V9rfRoPrA)-----------------------------------
+
