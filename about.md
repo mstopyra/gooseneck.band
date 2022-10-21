@@ -1,5 +1,5 @@
 ---
-title: About us
+title: /about
 layout: home
 permalink: /about
 ---
