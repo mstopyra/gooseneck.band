@@ -8,10 +8,6 @@ permalink: /about
 The folk funk duo from Winston Salem, NC of which your mother can't get enough! Gooseneck is made up of two multi-instrumentalists, Duncan Macmillan and Max Stopyra. 
 
 <style>
-body, html {
-  height: 100%;
-  margin: 0;
-}
 .bgimg {
   background-image: url('aboutpicture.png');
   height: 70%;
