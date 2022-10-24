@@ -7,7 +7,7 @@ permalink: /about
 
 The folk funk duo from Winston Salem, NC of which your mother can't get enough! Gooseneck is made up of two multi-instrumentalists, Duncan Macmillan and Max Stopyra. 
 
-![pic of us](aboutpicture.png){style="width: 50%}
+![pic of us](aboutpicture.png){style="width: 50%"}
 
 ## Duncan Macmillan
 Duncan is a student at UNC Chapel Hill. He is all things strings. You'll frequently hear him grooving at mach-jesus on banjo, ripping out tasteful, bluesy solos on guitar, and piping out some smooth vocals on home-grown lyrics. Duncan finds inspiration in artists such as the Avett Brothers, Mark Knopfler, James Taylor, and Blaze Foley. 
