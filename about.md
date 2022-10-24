@@ -9,15 +9,14 @@ The folk funk duo from Winston Salem, NC of which your mother can't get enough! 
 
 <style>
 .bgimg {
-  background-image: url('aboutpicture.png');
   height: 70%;
-  background-position: center;
-  background-size: cover;
   position: relative;
 }
 </style>
-<div class="bgimg">
+<div>
+<img src="aboutimage.png" class="bgimg">
 </div>
+
 
 
 ## Duncan Macmillan
