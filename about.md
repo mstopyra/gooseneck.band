@@ -14,7 +14,7 @@ The folk funk duo from Winston Salem, NC of which your mother can't get enough! 
 }
 </style>
 <div>
-<img src="aboutimage.png" class="bgimg">
+<img src="aboutimage.png" class="bgimg;">
 </div>
 
 
