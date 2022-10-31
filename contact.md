@@ -6,7 +6,7 @@ permalink: /contact
 
 # Want to get in touch? 
 
-[*Send us an email!*](mailto:info@gooseneck.band) *info@gooseneck.band*
+[*Send us an email!*](mailto:info@gooseneck.band) *(info@gooseneck.band)*
 
 *Check out our:*
 
